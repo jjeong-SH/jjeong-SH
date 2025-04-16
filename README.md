@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjeong-SH&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-AI researcher/Engineer  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  AI 연구원/개발자
+AI Researcher/Engineer  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  AI 연구원/개발자
 
 - Interested in: AI for Industrial Applications (manufacturing, mobility, logistics, etc), applied ML, data pipeline
 - Currently working at [LOTTE Rental](https://www.lotterental.com/homepage/html/web/index/index.html) AI Research Lab
