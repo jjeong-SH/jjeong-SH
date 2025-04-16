@@ -58,5 +58,5 @@ AI Researcher/Engineer  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  AI 연구원/개발자
 ### Contact
 
 - Email: jsanghee2273@gmail.com
-- LinkedIn: [Sanghee Jung](www.linkedin.com/in/sanghee-jung-0bb478223)
+- LinkedIn: [Sanghee Jung](https://www.linkedin.com/in/sanghee-jung-0bb478223)
 - Tech Blog (Korean): [천방지축 Tech 일기장](https://heeya-stupidbutstudying.tistory.com/)
